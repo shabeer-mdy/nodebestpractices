@@ -1133,7 +1133,7 @@ Our collaborators are members who are contributing to the repository on a regula
 
 <br/>
 
-## Thank You Notes
+## Thank You Note
 
 We appreciate any contribution, from a single word fix to a new best practice. View our contributors and [contributing documentation here!](CONTRIBUTORS.md)
 
